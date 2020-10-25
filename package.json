@@ -1,0 +1,32 @@
+{
+  "name": "tweetnacl-example",
+  "version": "1.0.0",
+  "description": "This is the example of tweetnacl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizenshakya/node-tweetnacl-example.git"
+  },
+  "keywords": [
+    "tweetnacl.js",
+    "node.js",
+    "crptyography"
+  ],
+  "author": "Lizen Shakya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizenshakya/node-tweetnacl-example/issues"
+  },
+  "homepage": "https://github.com/lizenshakya/node-tweetnacl-example#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "morgan": "^1.10.0",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
